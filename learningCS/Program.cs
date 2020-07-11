@@ -13,7 +13,7 @@ namespace learningCS
 
             Console.WriteLine("-------------------");
 
-            string characterName = "Silvia Ashorov";
+            string characterName = "Silvia ";
             int characterAge = 27;
             Console.WriteLine("there once was a women named " + characterName + ".");
             Console.WriteLine("she was " + characterAge + " yeers old and she really liked programming");
