@@ -20,6 +20,7 @@ namespace learningCS
             Console.WriteLine("but she couldn't find a job because of her inexperience");
             Console.WriteLine("But she still has hope because she knows it's the thing she wants most to do in her life");
 
+            Console.WriteLine("-------------------");
 
             Console.ReadLine();
         }
